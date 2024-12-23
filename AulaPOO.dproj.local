@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/23 08:06:04.000.783,=C:\Users\Win7\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/12/10 16:41:23.000.168,=C:\Users\Win7\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/11/27 13:16:58.000.935,=C:\Users\Win7\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/11/27 13:19:54.000.053,=C:\Users\Win7\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/12/06 16:36:39.000.399,=C:\Users\Win7\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/12/07 10:08:04.000.285,=C:\Users\Win7\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/04/02 17:07:52.000.644,=C:\Users\Win7\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/12/20 10:08:54.000.529,=C:\Users\Win7\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/12/20 10:09:11.000.872,E:\KaiqueBarato\POO\Principal.dfm=C:\Users\Win7\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2024/12/20 10:09:11.000.872,E:\KaiqueBarato\POO\Principal.pas=C:\Users\Win7\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/12/20 10:09:54.000.631,E:\KaiqueBarato\POO\AulaPOO.dproj=C:\Users\Win7\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2024/12/20 10:10:16.000.381,=E:\KaiqueBarato\POO\Unit1.pas</Transaction>
+    <Transaction>2024/12/20 10:10:23.000.600,E:\KaiqueBarato\POO\Unit1.pas=E:\KaiqueBarato\POO\Classe.Pessoa.pas</Transaction>
+    <Transaction>2024/12/20 10:10:58.046,=E:\KaiqueBarato\POO\Unit1.pas</Transaction>
+    <Transaction>2024/12/20 10:11:08.171,E:\KaiqueBarato\POO\Classe.Vendedor.pas=E:\KaiqueBarato\POO\Unit1.pas</Transaction>
+    <Transaction>2024/12/20 10:11:12.624,=E:\KaiqueBarato\POO\Unit1.pas</Transaction>
+    <Transaction>2024/12/20 10:11:20.171,E:\KaiqueBarato\POO\Classe.Administrativo.pas=E:\KaiqueBarato\POO\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

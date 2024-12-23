@@ -1,0 +1,46 @@
+unit Classe.Pessoa;
+
+interface
+
+  
+uses
+  System.SysUtils;
+
+type
+  TPessoa = class
+    private
+    FFuncao: string;
+    FSalario: Currency;
+    FNome: String;
+    procedure SetFuncao(const Value: string);
+    procedure SetNome(const Value: String);
+    procedure SetSalario(const Value: Currency);
+    public
+      property Nome : String read FNome write SetNome;
+      property Funcao : string read FFuncao write SetFuncao;
+      property Salario : Currency read FSalario write SetSalario;
+  end;
+
+implementation
+
+{ TPessoa }
+
+procedure TPessoa.SetFuncao(const Value: string);
+begin
+  FFuncao := Value;
+end;
+
+procedure TPessoa.SetNome(const Value: String);
+begin
+  if Value = '' then
+    raise Exception.Create('Nome não pode ser vazio!');
+
+  FNome := Value;
+end;
+
+procedure TPessoa.SetSalario(const Value: Currency);
+begin
+  FSalario := Value;
+end;
+
+end.

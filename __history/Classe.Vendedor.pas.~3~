@@ -1,0 +1,32 @@
+unit Classe.Vendedor;
+
+interface
+
+uses
+  Classe.Pessoa;
+
+type
+  TVendendor = class(TPessoa)
+  private
+    FComissao: Currency;
+    procedure SetComissao(const Value: Currency);
+  published
+    property Comissao : Currency read FComissao write SetComissao;
+    function calculaSalario : Currency; override;
+  end;
+
+implementation
+
+{ TVendendor }
+
+function TVendendor.calculaSalario: Currency;
+begin
+  Result := Salario + Comissao;
+end;
+
+procedure TVendendor.SetComissao(const Value: Currency);
+begin
+  FComissao := Value;
+end;
+
+end.
